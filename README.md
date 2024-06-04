@@ -4,7 +4,6 @@ This is a simple Alarm App that allows users to set alarms and get notified when
 
 ![image](https://github.com/LakinduNimesh/Alarm-app/assets/149768006/0114c13c-deb3-4225-a9f9-a29addb4c61d)
 
-
 ## Features
 
 - Display the current time in HH:MM:SS format
